@@ -1,0 +1,163 @@
+/* .about{
+background:linear-gradient(rgb(69, 69, 94),rgb(25, 35, 66)); 
+}
+@media only screen and (min-width: 300px){
+.about{
+height:1300px;
+padding: 30px;
+}
+}
+@media only screen and (min-width: 900px){
+.about{
+    
+height:750px;
+padding: 30px;
+}
+
+}
+.phone2{
+background-color: antiquewhite;
+height:550px;
+padding: 30px;
+}
+@media only screen and (min-width: 350px){
+.phone2{
+     
+    height:950px;
+padding: 30px;
+}
+}
+@media only screen and (min-width: 900px){
+.phone2{
+     
+    height:600px;
+padding: 30px;
+}
+
+}
+
+
+.front_h1{
+    color:white;
+    font-size: 20px;
+    font-family:a;
+    position:relative;
+    
+    }
+.link{
+    display: flex;
+    gap:30px;
+    list-style-type: none;
+    position:relative;
+    left: 60px;
+ }
+ @media only screen and (min-width: 350px){
+    .link{
+        display: flex;
+        gap:30px;
+        list-style-type: none;
+        position:relative;
+        left: 60px;
+     }
+    }
+ @media only screen and (min-width: 900px){
+    .link{
+    left:400px;         
+    }
+
+.mission-h3{
+    font-size:large;
+    color: aliceblue;
+    }
+
+#side_one{
+    position: relative;
+    left:150px;
+}
+.side_div{
+    float: left;
+    position: relative;
+
+}
+
+ */
+ .link{
+    display: flex;
+    gap:80px;
+    list-style-type: none;
+    position:relative;
+             
+  
+}
+
+@media only screen and (min-width: 900px){
+    .link{
+        display: flex;
+        gap:80px;
+        list-style-type: none;
+        position:relative;
+        left:350px;    
+    }
+}
+
+#portfolio{
+    background: linear-gradient(rgb(9, 30, 128),rgb(20, 20, 51));
+    padding:40px;
+    height: 470px;
+}
+@media only screen and (min-width: 350px){
+    #portfolio{
+      
+        height:1700px;  
+    }
+}
+@media only screen and (min-width: 900px){
+    #portfolio{
+        height:900px;
+               
+    }
+}
+
+
+.about-img{
+    float: left;
+    position: relative;
+    left:-100px;
+}
+@media only screen and (max-width: 820px){
+    .about-img{
+        position: relative;
+        left:-15px;
+        width: 350px;    
+               
+    }
+}
+.about{
+    background:linear-gradient(rgb(69, 69, 94),rgb(25, 35, 66));
+    height: 850px;    
+}
+
+@media only screen and (max-width: 800px){
+    .about{
+        
+        height: 1350px;
+    }
+}
+
+#all{
+    position:relative; 
+    left: 600px;
+}
+@media only screen and (max-width: 800px){
+    #all{
+        position:relative; 
+        left: 110px;
+            
+        
+    }
+}
+
+
+
+
+
